@@ -56,7 +56,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #0000FF;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -151,7 +151,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: #bbada0;
+  background: #0000FF;
   border-radius: 6px;
   width: 500px;
   height: 500px;
